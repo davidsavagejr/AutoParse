@@ -15,6 +15,6 @@
 <p>In cases where you don't really have any conditional logic, but don't want to fail if the value cannot be parsed, AutoParse simplifies it:</p>
 <pre>
 	<code>
-		var number = "123456".Parse<int>();
+		var number = "123456".Parse&lt;int&gt;();
 	</code>
 </pre>
