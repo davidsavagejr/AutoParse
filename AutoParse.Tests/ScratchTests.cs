@@ -11,8 +11,11 @@ namespace AutoParse.Tests
         [Test]
         public void should_parse_value()
         {
-            var val = "20131025".TryParse<DateTime>(DateTime.TryParse);
-            Console.WriteLine(val);
+            Console.WriteLine("0009998".TryParse<int>());
+            Console.WriteLine("0009998".TryParse<long>());
+            Console.WriteLine("0009998".TryParse<double>());
+
+            Console.WriteLine("10-25-2013".TryParseNullable<DateTime>().HasValue);
         }
     }
 }
