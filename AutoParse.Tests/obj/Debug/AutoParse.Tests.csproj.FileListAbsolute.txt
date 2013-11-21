@@ -1,0 +1,10 @@
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\AutoParse.Tests.dll
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\AutoParse.Tests.pdb
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\AutoParse.dll
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\nunit.framework.dll
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\AutoParse.pdb
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\nunit.framework.xml
+C:\repositories\AutoParse\AutoParse.Tests\obj\Debug\AutoParse.Tests.csprojResolveAssemblyReference.cache
+C:\repositories\AutoParse\AutoParse.Tests\obj\Debug\AutoParse.Tests.dll
+C:\repositories\AutoParse\AutoParse.Tests\obj\Debug\AutoParse.Tests.pdb
+C:\repositories\AutoParse\AutoParse.Tests\bin\Debug\Should.dll

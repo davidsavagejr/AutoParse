@@ -1,0 +1,5 @@
+C:\repositories\AutoParse\AutoParse\bin\Debug\AutoParse.dll
+C:\repositories\AutoParse\AutoParse\bin\Debug\AutoParse.pdb
+C:\repositories\AutoParse\AutoParse\obj\Debug\AutoParse.csprojResolveAssemblyReference.cache
+C:\repositories\AutoParse\AutoParse\obj\Debug\AutoParse.dll
+C:\repositories\AutoParse\AutoParse\obj\Debug\AutoParse.pdb
